@@ -1,13 +1,3 @@
-/*
-  ==============================================================================
-
-    This file contains the basic framework code for a JUCE plugin processor.
-
-    It is limited to JUCE boilerplate and parameters definition, storage and
-    loading. Arp logic happens in Arp.cpp/.h
-
-  ==============================================================================
-*/
 
 #include "PluginProcessor.h"
 #include "ChordStore.h"
